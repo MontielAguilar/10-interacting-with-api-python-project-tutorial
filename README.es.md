@@ -23,5 +23,3 @@ Una vez que hayas terminado de resolver el caso práctico, asegúrate de confirm
 ## 📝 Instrucciones
 
 Lee el contenido del fichero `./INSTRUCTIONS.es.md` que contiene los pasos para completar el proyecto, síguelos y desarrolla la solución primero en `./src/explore.ipynb` para hacer pruebas y después pasa el código limpio a `./src/app.py`. Asegúrate de eliminar el notebook una vez ya no lo necesites para mantener el proyecto limpio y ordenado.
-
-> NOTA: Solución: https://github.com/4GeeksAcademy/interacting-with-api-python-project-tutorial/blob/main/src/solution.md
